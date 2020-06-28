@@ -14,3 +14,5 @@ Videos und konzeptionell choreografierten Liveshows dar.
 
 As Peter said:
 > Sledgehammer
+
+<img src="https://de.wikipedia.org/wiki/Datei:Peter_Gabriel_The_Moonlight_Knight_(cropped).png"/>
