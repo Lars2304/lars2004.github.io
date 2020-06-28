@@ -11,3 +11,6 @@ Vorreiterrolle im Bereich der digital bearbeiteten Musik ein.
 Seine Musik, eine nicht klar kategorisierbare Mischung aus Pop und Rock mit progressiven 
 Elementen und deutlichen Einflüssen der Weltmusik, stellte er aufwendig in spektakulären 
 Videos und konzeptionell choreografierten Liveshows dar.
+
+As Peter said:
+> Sledgehammer
