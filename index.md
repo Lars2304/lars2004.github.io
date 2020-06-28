@@ -1,8 +1,9 @@
 # This is the title!
 ## Header 2
-*Genesis
-*Solokarrriere
-*So
+* Genesis
+* Solokarriere
+* So
+
 Nach seinem Weggang von Genesis im Herbst 1975 startete er eine erfolgreiche Solokarriere. 
 Der Schwerpunkt lag auf der Produktion und Förderung von Weltmusik, 
 sowohl seine eigene Musik aber auch die anderer Künstler betreffend. Zudem nahm er eine 
